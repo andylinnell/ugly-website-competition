@@ -1,0 +1,79 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=Akronim&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Patrick+Hand&display=swap');
+
+
+h1 { font-family: Patrick Hand ; 
+    font-size: 60px;
+    text-align: center;
+    color:brown;
+    
+}
+
+body { 
+    background-image: url(../images/download.jpg);  
+    
+}
+
+#bluecarrots {
+    background-image: url(../images/images-1.jpg);
+    width: 100%;
+    border: 1px solid black;
+    height: 450px;
+    padding: 0;
+    margin: 0;
+}
+
+#greencarrots {
+    background-image: url(../images/images.jpg);
+    width: 100%;
+    border: 1px solid black;
+    height: 450px;
+    padding: 0;
+    margin-bottom: 50px;
+}
+
+#pattern {
+    background-image: url(../images/images-2.jpg);
+    width: 100%;
+    border: 1px solid black;
+    height: 450px;
+    padding: 0;
+    margin-top: 50px;
+}
+
+img {
+    width: 25%;
+    border: 5px solid brown;
+    box-shadow: -1px 1px 12px 18px rgba(255,95,95,0.68);
+    -webkit-box-shadow: -1px 1px 12px 18px rgba(255,95,95,0.68);
+    -moz-box-shadow: -1px 1px 12px 18px rgba(255,95,95,0.68);
+    aspect-ratio: 1 / 1;
+    margin: 20px;
+    margin-right: 50px;
+    margin-left: 60px;
+}
+
+#carrots {
+    color: darkorchid;
+    font-size: 30px;
+    text-align: center;
+    font-family: Patrick Hand;
+}
+
+footer {
+    font-family: Patrick Hand ; 
+    font-size: 200px;
+    text-align: center;
+    color:aquamarine;
+    height:200px;
+    width: 100%;
+    background-image: url(../images/APe74X.jpg);
+}
+
+a:hover {
+    /* transform: scale(1.1);
+    transition: 0.2s; */
+    display:inline-flex;
+    transition: .5s;
+    transform: matrix3d();
+}
