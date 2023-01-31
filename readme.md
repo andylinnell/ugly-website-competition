@@ -8,4 +8,3 @@ Week 4, Day 2. Ugly Website Competition.
 2. CSS
 
 
-See the demo [click here](https://github.com/andylinnell/mysql-js). <!-- BP = bracket parentheses  -->
